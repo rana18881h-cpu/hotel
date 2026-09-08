@@ -1,0 +1,2 @@
+learning_rate,max_depth,min_child_weight,subsample,colsample_bytree,reg_lambda
+0.03961867790406585,7,19,0.6783931449676581,0.6180909155642152,0.09462175356461491
