@@ -63,3 +63,4 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, SHAP, Optuna, and Matplotlib.
 
 ## Course
 SDAIA Academy – Advanced Machine Learning Methods
+[@SDAIA Academy](https://github.com/SDAIAAcademy)
